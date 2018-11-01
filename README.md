@@ -1,12 +1,12 @@
 # deepquotes
 
 Use it here!
-andrewleemooquotes.firebaseapp.com
+https://andrewleemooquotes.firebaseapp.com
 
 Tell us your feelings, thoughts, and ramblings, and we will provide you with a relevant quote to match your sentiment!
 
 What do I type in?
-Anything pertaining to your feelings! The more you type, the better we can tailor one of our quotes to you!
+Anything pertaining to your feelings! The more you type, the better we can tailor one of our quotes to you! Press the enter key once you are done or click the button to receive your quote!
 
 Where do you get your quotes?
 instagram.com/andrewleemoo
